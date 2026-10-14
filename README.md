@@ -47,6 +47,13 @@ Atuo no desenvolvimento de soluções da ControlXRM para administradoras de shop
   </picture>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jjcesarsantos/jjcesarsantos/output/activity-graph-dark.svg" />
+    <img alt="Gráfico de atividade" src="https://raw.githubusercontent.com/jjcesarsantos/jjcesarsantos/output/activity-graph.svg" />
+  </picture>
+</p>
+
 ### Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-cesar-santos-ab6565180/)
