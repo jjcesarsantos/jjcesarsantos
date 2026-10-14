@@ -2,6 +2,10 @@
 
 **Desenvolvedor .NET / C#** · ControlXRM · São Paulo, SP
 
+<a href="https://github.com/jjcesarsantos">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=6E5BD8&vCenter=true&width=620&lines=Desenvolvedor+.NET+%2F+C%23;Solu%C3%A7%C3%B5es+para+shoppings+e+aeroportos;Integra%C3%A7%C3%A3o+de+vendas+e+PDVs;Pain%C3%A9is+gerenciais+e+auditoria" alt="Desenvolvedor .NET / C#" />
+</a>
+
 Atuo no desenvolvimento de soluções da ControlXRM para administradoras de shoppings e aeroportos, com foco em retaguarda, painéis gerenciais, auditorias e integração das vendas dos lojistas com diferentes sistemas de PDV.
 
 ### Áreas de atuação
@@ -24,6 +28,10 @@ Atuo no desenvolvimento de soluções da ControlXRM para administradoras de shop
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Atividade
+
+<p align="center">
+  <img alt="Troféus do GitHub" src="https://github-trophies.vercel.app/?username=jjcesarsantos&theme=flat&no-frame=true&no-bg=true&column=-1&margin-w=10" />
+</p>
 
 <p align="center">
   <picture>
