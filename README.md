@@ -23,6 +23,22 @@ Atuo no desenvolvimento de soluções da ControlXRM para administradoras de shop
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### Atividade
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jjcesarsantos&theme=github-dark-blue&hide_border=true&locale=pt_BR" />
+    <img alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=jjcesarsantos&theme=default&hide_border=true&locale=pt_BR" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jjcesarsantos/jjcesarsantos/output/github-snake-dark.svg" />
+    <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/jjcesarsantos/jjcesarsantos/output/github-snake.svg" />
+  </picture>
+</p>
+
 ### Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-cesar-santos-ab6565180/)
