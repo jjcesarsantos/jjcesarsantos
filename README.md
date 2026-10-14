@@ -1,6 +1,6 @@
 # Olá, eu sou o Julio Cesar Santos 👋
 
-Desenvolvedor **.NET / C#** focado em sistemas de gestão para varejo e food service: retaguarda, painéis gerenciais, auditorias e integração de vendas com uma variedade de sistemas de PDV.
+Desenvolvedor **.NET / C#** na **ControlXRM**, empresa que desenvolve soluções para administradoras de shoppings e aeroportos. Atuo em retaguarda, painéis gerenciais, auditorias e na integração das vendas dos lojistas com uma variedade de sistemas de PDV.
 
 ### 🔧 O que eu faço no dia a dia
 - Desenvolvimento web com **ASP.NET Core** e **Entity Framework**
